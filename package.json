@@ -1,0 +1,18 @@
+{
+  "name": "etherjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "tests": "echo \"Error: no test specified\" && exit 1",
+    "test": "node run-test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.7.0"
+  }
+}
